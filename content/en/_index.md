@@ -1,5 +1,5 @@
 ---
-title: Goldydocs
+title: Planetary Flow
 ---
 
 {{< blocks/cover title="Processing tools for your imaging workflow" image_anchor="top" height="full" >}}
@@ -10,7 +10,7 @@ title: Goldydocs
   Download <i class="fab fa-github ms-2 "></i>
 </a>
 <p class="lead mt-5">
-  A true community-driven, free, and open source passion project.
+  A community-driven, free, and open source passion project.
 </p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
@@ -36,11 +36,6 @@ Please follow this space for updates!
 
 {{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
 We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
-
-
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
 {{% /blocks/feature %}}
 
 

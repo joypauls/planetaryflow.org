@@ -1,9 +1,13 @@
 ---
-title: Documentation
+title: Getting Started with PlanetaryFlow
 linkTitle: Docs
 menu: {main: {weight: 20}}
 weight: 20
 ---
+
+<div class="row" style="justify-content: center;">
+  <img src="planetary_flow_logo.svg" style="max-width: 400px; width: 80%" />
+</div>
 
 {{% pageinfo %}}
 This is a placeholder page that shows you how to use this template site.
